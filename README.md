@@ -27,3 +27,5 @@ A continuación se detallan los ficheros que se pueden encontrar en github y el 
 
 Los recursos utilizados para la realización de esta práctica son:
 - Conjunto de datos "Red Wine Quality": https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009
+- https://www.kaggle.com/amans02/wine-quality-predictions
+- https://www.kaggle.com/qusid007/getting-more-than-91-accuracy-predicting-quality
