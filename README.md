@@ -29,3 +29,5 @@ Los recursos utilizados para la realización de esta práctica son:
 - Conjunto de datos "Red Wine Quality": https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009
 - https://www.kaggle.com/amans02/wine-quality-predictions
 - https://www.kaggle.com/qusid007/getting-more-than-91-accuracy-predicting-quality
+- Megan Squire (2015). Clean Data. Packt Publishing Ltd.
+- Jason W. Osborne (2010). Data Cleaning Basics: Best Practices in Dealing with Extreme Scores. Newborn and Infant Nursing Reviews; 10 (1): pp. 1527-3369.
